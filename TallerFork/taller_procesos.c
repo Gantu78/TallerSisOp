@@ -3,7 +3,7 @@
             Carlos Pinzon
             Daniel Hoyos
  * Institución: Pontificia Universidad Javeriana
- * Fecha: 13/02/2025
+ * Fecha: 9/04/2025
  * Clase: Sistemas Operativos
  * Tema: - Memoria dinámica, fork, pipes
  *       - Comunicación entre procesos
