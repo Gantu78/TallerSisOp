@@ -1,6 +1,7 @@
 /**********************************************
  * Autores: Samuel Gantiva
             Carlos Pinzon
+            Daniel Hoyos
  * Institución: Pontificia Universidad Javeriana
  * Fecha: 13/02/2025
  * Clase: Sistemas Operativos
